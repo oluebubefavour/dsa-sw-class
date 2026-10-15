@@ -3,7 +3,7 @@ console.log("Welcome to class");
 let name = "OFN";
 console.log(name);
 
-let age = "20";
+let age = 25;
 console.log(age);
 
 let attendance = 7 * 60 + 50;
